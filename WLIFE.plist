@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://112.132.224.30:58080/edwap/json/wkjs/version/downFileByVersionCode?versionCode=lift_ios</string>
+					<string>http://60.173.195.121:8093/upl/mobile/queryVisionByType.json?client_type=1</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tydic.liftinfo</string>
+				<string>com.ahchinaunicom.wolife</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>电梯数据采集平台</string>
+				<string>沃生活</string>
 			</dict>
 		</dict>
 	</array>
